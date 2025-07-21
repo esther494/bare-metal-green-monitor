@@ -1,0 +1,2 @@
+../Core/Src/usart.c:10:6:USART1_Init	4	static
+../Core/Src/usart.c:27:6:USART1_Transmit	16	static

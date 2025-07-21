@@ -1,0 +1,2 @@
+../Core/Src/adcdma.c:10:6:ADC_Init	4	static
+../Core/Src/adcdma.c:38:6:DMA_Init	4	static
