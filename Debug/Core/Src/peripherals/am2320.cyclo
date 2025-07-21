@@ -1,0 +1,4 @@
+../Core/Inc/peripherals/delay.h:18:20:delay_ms	2
+../Core/Src/peripherals/am2320.c:10:6:AM2320_Wakeup	2
+../Core/Src/peripherals/am2320.c:31:6:AM2320_Send_Command	6
+../Core/Src/peripherals/am2320.c:61:6:AM2320_Receive	6

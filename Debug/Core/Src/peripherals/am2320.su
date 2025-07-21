@@ -1,0 +1,4 @@
+../Core/Inc/peripherals/delay.h:18:20:delay_ms	24	static,ignoring_inline_asm
+../Core/Src/peripherals/am2320.c:10:6:AM2320_Wakeup	16	static
+../Core/Src/peripherals/am2320.c:31:6:AM2320_Send_Command	16	static
+../Core/Src/peripherals/am2320.c:61:6:AM2320_Receive	16	static

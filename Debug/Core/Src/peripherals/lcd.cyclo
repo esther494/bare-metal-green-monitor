@@ -1,0 +1,7 @@
+../Core/Inc/peripherals/delay.h:18:20:delay_ms	2
+../Core/Src/peripherals/lcd.c:11:6:LCD_Send_Command	6
+../Core/Src/peripherals/lcd.c:43:6:LCD_Send_Data	6
+../Core/Src/peripherals/lcd.c:81:6:LCD_Init	1
+../Core/Src/peripherals/lcd.c:103:6:LCD_Send_String	2
+../Core/Src/peripherals/lcd.c:107:6:LCD_Clear_Display	2
+../Core/Src/peripherals/lcd.c:114:6:LCD_Cursor_Position	5

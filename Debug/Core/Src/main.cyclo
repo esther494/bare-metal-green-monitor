@@ -1,12 +1,3 @@
-../Core/Inc/peripherals/delay.h:16:20:delay_ms	2
-../Core/Inc/peripherals/lcd.h:22:6:LCD_Send_Command	6
-../Core/Inc/peripherals/lcd.h:54:6:LCD_Send_Data	6
-../Core/Inc/peripherals/lcd.h:92:6:LCD_Init	1
-../Core/Inc/peripherals/lcd.h:114:6:LCD_Send_String	2
-../Core/Inc/peripherals/lcd.h:118:6:LCD_Clear_Display	2
-../Core/Inc/peripherals/lcd.h:125:6:LCD_Cursor_Position	5
-../Core/Inc/peripherals/am2320.h:19:6:AM2320_Wakeup	2
-../Core/Inc/peripherals/am2320.h:40:6:AM2320_Send_Command	6
-../Core/Inc/peripherals/am2320.h:70:6:AM2320_Receive	6
-../Core/Src/main.c:28:5:main	1
-../Core/Src/main.c:91:6:Display_Value	1
+../Core/Inc/peripherals/delay.h:18:20:delay_ms	2
+../Core/Src/main.c:27:5:main	1
+../Core/Src/main.c:87:6:Display_Value	1

@@ -8,6 +8,8 @@
 #ifndef INC_PERIPHERALS_DELAY_H_
 #define INC_PERIPHERALS_DELAY_H_
 
+#include "stm32f4xx.h"  // Include MCU-specific definitions
+
 #define CLOCK_FREQUENCY 16000000UL // 16 MHz
 #define CYCLES_PER_MS (CLOCK_FREQUENCY / 1000)
 
